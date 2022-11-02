@@ -1,7 +1,7 @@
 {
     "heroes": [{
         "id": 1,
-        "name": "barbarian",
+        "name": "The Barbarian",
         "level": "Level 4",
         "description": "The Barbarian is a kilt-clad Scottish warrior with an angry, battle-ready expression, hungry for destruction.He has Killer yellow horseshoe mustache.",
         "units": [{
@@ -20,7 +20,7 @@
         "img": "./img/barbarian.png"
     }, {
         "id": 2,
-        "name": "archer",
+        "name": "The Archer",
         "level": "Level 5",
         "description": "The Archer is a female warrior with sharp eyes. She wears a short, light green dress, a hooded cape, a leather belt and an attached small pouch.",
         "units": [{
@@ -39,7 +39,7 @@
         "img": "./img/archer.png"
     }, {
         "id": 3,
-        "name": "giant",
+        "name": "Giant",
         "level": "Level 5",
         "description": " Slow, steady and powerful, Giants are massive warriors that soak up huge amounts of damage. Show them a turret or cannon and you'll see their fury unleashed!",
         "units": [{
@@ -58,7 +58,7 @@
         "img": "./img/giant.png"
     }, {
         "id": 4,
-        "name": "goblin",
+        "name": "Goblin",
         "level": "Level 5",
         "description": "These pesky little creatures only have eyes for one thing: LOOT! They are faster than a Spring Trap, and their hunger for resources is limitless.",
         "units": [{
@@ -77,7 +77,7 @@
         "img": "./img/goblin.png"
     }, {
         "id": 5,
-        "name": "wizard",
+        "name": "The Wizard",
         "level": "Level 6",
         "description": "The Wizard is a terrifying presence on the battlefield. Pair him up with some of his fellows and cast concentrated blasts of destruction on anything, land or sky!",
         "units": [{
